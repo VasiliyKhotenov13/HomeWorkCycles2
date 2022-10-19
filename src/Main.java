@@ -82,6 +82,7 @@ public class Main {
             total4 = 2 * n;
             System.out.println("2 * " + n + " = " + total4);
         }
+        System.out.println("КОНЕЦ!");
 
 
 
